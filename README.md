@@ -1,1 +1,1 @@
-DCN Fat Tree Architecture for 16 servers 
+This program contains NS3 C++ code for DCN Fat Tree architecture for 16 servers. It generated packet cpature and flow statistics for UDP, TCP flows. NetAnim configuration is already present in the code.
